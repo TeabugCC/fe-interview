@@ -15,22 +15,22 @@
     勤思考 - 多动手 - 善总结 - 能坚持  
 </p>
 
-> :star: 这是一个涉及前端知识题库 **最多（3000+）、最全**，参与人数最多的免费开源项目！
+> :star: 这是一个涉及前端知识题库 **最多（4000+）、最全**，参与人数最多的免费开源项目！
 
 :hash: [我也要出题](http://www.h-camel.com/contribution.html) 
 
-| :bulb: 基础 | [HTML 500+](category/html.md) | [CSS 500+](category/css.md) | [JS 500+](category/js.md) | [软技能 500+](category/skill.md) |  | | | 
+| :bulb: 基础 | [HTML 700+](category/html.md) | [CSS 700+](category/css.md) | [JS 700+](category/js.md) | [软技能 700+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
-| :newspaper: 专题 | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 41+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
+| :newspaper: 专题 | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 90+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
 | :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.11.19) —— 第583天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas能实现哪些复杂的功能？](https://github.com/haizlin/fe-interview/issues/3202)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何判断dpr的倍数？](https://github.com/haizlin/fe-interview/issues/3203)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下执行栈有哪些特点？](https://github.com/haizlin/fe-interview/issues/3204)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你了解什么是无界画布吗？](https://github.com/haizlin/fe-interview/issues/3205)  
+## :clock430: 今天的知识点   (2021.04.12) —— 第727天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [怎么设置才能让:active有效，让:hover无效？](https://github.com/haizlin/fe-interview/issues/3805)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [CSS如何将彩色图片变为黑白图片？](https://github.com/haizlin/fe-interview/issues/3806)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [Symbol强制类型转换的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3807)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你喜欢早睡还是晚睡？为什么？](https://github.com/haizlin/fe-interview/issues/3808)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第582天 (2020.11.18)  
-    	 :one: [html] [使用svg画出“前端每日3+1”的几个字](https://github.com/haizlin/fe-interview/issues/3198)  
-	 :two: [css] [css中如何获取dpr值？](https://github.com/haizlin/fe-interview/issues/3199)  
-	 :three: [js] [请解释下为什么我们可以在声明函数前使用它？](https://github.com/haizlin/fe-interview/issues/3200)  
-	 :four: [软技能] [在https站点下如何加载http的资源文件？](https://github.com/haizlin/fe-interview/issues/3201)  
+- 第726天 (2021.04.11)  
+    	 :one: [html] [如何强制浏览器全屏？](https://github.com/haizlin/fe-interview/issues/3801)  
+	 :two: [css] [使用css的哪些方法可以提高页面的渲染速度？](https://github.com/haizlin/fe-interview/issues/3802)  
+	 :three: [js] [JS中把其它类型转成字符串的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3803)  
+	 :four: [软技能] [图片地址状态码返回200， 一定能请求的到图片么？](https://github.com/haizlin/fe-interview/issues/3804)  
  
 	
 - **[查看全部](category/history.md)**
